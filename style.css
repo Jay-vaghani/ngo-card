@@ -5,3 +5,11 @@
 .contact-icon.lg-icons{
     width: 40px;
 }
+
+.working-photos{
+    transition: 0.3s ease-in-out;
+}
+
+.working-photos:hover{
+    transform: scale(1.1);
+}
