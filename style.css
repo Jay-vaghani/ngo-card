@@ -1,3 +1,6 @@
+
+
+
 .contact-icon{
     width: 60px;
 }
@@ -12,4 +15,26 @@
 
 .working-photos:hover{
     transform: scale(1.1);
+}
+
+.banner{
+    width: 116%;
+}
+
+.info-text{
+    /* font-size: 13px; */
+    color: #000;
+}
+
+.info-box{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form{
+    font-size: 1.2rem;
+    word-spacing: 3px;
 }
